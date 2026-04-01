@@ -19,7 +19,7 @@ Deep-Scan is a lightweight, Python-based Vulnerability Assessment and Penetratio
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/deep-scan.git](https://github.com/YOUR_USERNAME/deep-scan.git)
+   git clone [https://github.com/abhishek-user/deep-scan.git](https://github.com/abhishek-user/deep-scan.git)
    cd deep-scan
 
 2. Create and activate a virtual environment (Recommended):
