@@ -40,5 +40,9 @@ Deep-Scan is a lightweight, Python-based Vulnerability Assessment and Penetratio
 
     The tool will execute the scanning modules and save a file named DeepScan_Report.pdf in the same directory upon completion.
 
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-ganesh07)
+
 ⚠️ Disclaimer
 This tool is designed for educational purposes and authorized security testing only. Do not run this scanner against any system, network, or application for which you do not have explicit permission. The developer is not responsible for any misuse or damage caused by this program.
